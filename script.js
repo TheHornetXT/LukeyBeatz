@@ -17,6 +17,12 @@ const beats = [
         image: "https://i.pinimg.com/736x/4b/f0/3f/4bf03f1daa752d1a13fa18becfc7ee0a.jpg",
         youtubeLink: "https://www.youtube.com/watch?v=pNKVdomUrwg",
         price: "$5"
+    },
+    {
+        title: "Juice WRLD Type Beat",
+        image: "https://wallpapercat.com/w/full/8/7/0/2562110-2160x3840-mobile-4k-juice-wrld-wallpaper.jpg",
+        youtubeLink: "https://https://www.youtube.com/watch?v=zIWAKSLUtXE",
+        price: "$3"
     }
     // To add more beats, simply add new objects to this array following the same structure
 ];
