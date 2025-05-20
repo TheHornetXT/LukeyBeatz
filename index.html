@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lukey Beatz: The Best place to buy High Quality Affordable Beats</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Lukey Beatz</h1>
+            <p class="tagline">The Best Place to Buy High Quality Affordable Beats</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <section class="info-banner">
+            <p><i class="fas fa-info-circle"></i> Only accepting in-person purchases. Email to verify beat availability before purchase.</p>
+            <p><i class="fas fa-envelope"></i> Contact: <a href="mailto:lukemcguire21113@gmail.com">lukemcguire21113@gmail.com</a></p>
+        </section>
+
+        <section class="beats-container" id="beats-container">
+            <!-- Beats will be loaded here dynamically via JS -->
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Lukey Beatz. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <!-- Modal for beat preview -->
+    <div class="modal" id="previewModal">
+        <div class="modal-content">
+            <span class="close-btn">&times;</span>
+            <div class="modal-body">
+                <h2 id="modalTitle"></h2>
+                <div class="youtube-container" id="youtubeEmbed"></div>
+                <div class="modal-info">
+                    <p class="price" id="modalPrice"></p>
+                    <a href="mailto:lukemcguire21113@gmail.com" class="cta-button">Contact to Purchase</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
