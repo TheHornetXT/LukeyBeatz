@@ -35,7 +35,7 @@ const beats = [
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHSCmt5yCnQEviD5CaAnn0weYdBtGA5woiVw&s",
         youtubeLink: "https://www.youtube.com/watch?v=kLvQxvxTt_k",
         price: "$4"
-    },
+    }
 ];
 
 // Function to load beats
