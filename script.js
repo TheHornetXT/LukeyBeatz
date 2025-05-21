@@ -29,7 +29,7 @@ const beats = [
         image: "https://4kwallpapers.com/images/wallpapers/nba-youngboy-2732x2732-13928.jpg",
         youtubeLink: "https://www.youtube.com/watch?v=HMEKW72mqh8",
         price: "$4"
-    }
+    },
     // To add more beats, simply add new objects to this array following the same structure
 ];
 
