@@ -30,7 +30,12 @@ const beats = [
         youtubeLink: "https://www.youtube.com/watch?v=HMEKW72mqh8",
         price: "$4"
     },
-    // To add more beats, simply add new objects to this array following the same structure
+    { 
+        title: "d4vd Emotinal *TRAP* Type Beat"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHSCmt5yCnQEviD5CaAnn0weYdBtGA5woiVw&s"
+        youtubeLink: "https://www.youtube.com/watch?v=kLvQxvxTt_k"
+        price: "$4"
+    },
 ];
 
 // Function to load beats
