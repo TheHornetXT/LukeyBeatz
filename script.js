@@ -23,6 +23,12 @@ const beats = [
         image: "https://wallpapercat.com/w/full/8/7/0/2562110-2160x3840-mobile-4k-juice-wrld-wallpaper.jpg",
         youtubeLink: "https://https://www.youtube.com/watch?v=zIWAKSLUtXE",
         price: "$3"
+    },
+    {
+        title: "YoungBoy Never Broke Again Type Beat",
+        image: "https://4kwallpapers.com/images/wallpapers/nba-youngboy-2732x2732-13928.jpg",
+        youtubeLink: "https://www.youtube.com/watch?v=HMEKW72mqh8",
+        price: "$4"
     }
     // To add more beats, simply add new objects to this array following the same structure
 ];
